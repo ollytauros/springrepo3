@@ -1,0 +1,8 @@
+site_name: "Spring"
+site_description: "bla bla bla"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
