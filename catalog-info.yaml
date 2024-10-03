@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: undefined/undefined
     backstage.io/techdocs-ref: dir:.
+    sonarqube.org/project-key: YOUR_INSTANCE_NAME/YOUR_PROJECT_KEY
 spec:
   type: service
   lifecycle: experimental
