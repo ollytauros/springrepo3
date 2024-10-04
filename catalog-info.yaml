@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: undefined/undefined
     backstage.io/techdocs-ref: dir:.
-    sonarqube.org/project-key: 'new-prj'
+    sonarqube.org/project-key: 'ollytauros_springrepo3'
 spec:
   type: service
   lifecycle: experimental
